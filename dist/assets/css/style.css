@@ -1,0 +1,9 @@
+header {
+    background-color: crimson;
+    padding: 70px 35px;
+}
+
+header h2 {
+    color: white;
+    margin-left: 45%;
+}
