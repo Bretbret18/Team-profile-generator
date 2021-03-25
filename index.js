@@ -4,6 +4,11 @@ const Intern = require('./lib/Intern');
 const Engineer = require('./lib/Engineer');
 const Render = require('./lib/Render');
 
+// TO DO: 1. Finish bootstrap and CSS styling
+// 2: Make Video of Program functioning properly
+// 3: Create README 
+// 4: Push to develop, push to master
+
 
 const questionTemplate = [
     {
