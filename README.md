@@ -6,3 +6,5 @@ each type of team member or employee (Manager, Intern, Engineer). This
 application dynamically generates the HTML page using Node. Enjoy!
 
 https://github.com/Bretbret18/Team-profile-generator
+https://bretbret18.github.io/Team-profile-generator/
+http://somup.com/creOqxb43W
